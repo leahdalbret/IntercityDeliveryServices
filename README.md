@@ -2,6 +2,6 @@
 
 This repo includes : 
 
-Intercity Delivery Services
-Membership System
+Intercity Delivery Services,
+Membership System,
 Timekeeper
